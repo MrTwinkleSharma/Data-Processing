@@ -6,3 +6,5 @@ Data Processing using Pandas Library
 4. After it the Cleaning Process of Data Comes
 ### What is Cleaning......?
 #### One of the most important task in Data Processing is Cleaning, Data needs to consistent to be reliably analyzed,</br> Cleaning involves parsing data detecting 'bad' or missing data. 
+
+5. In order that algorithms doesn't break in any condition like null, or blank because it need zero instead of this for **Python Program**
