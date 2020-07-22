@@ -13,3 +13,4 @@ data = {
 print("Our DataFrame is :\n")
 df = pd.Dataframe(data)
 print(df)
+#Data Frame is Two dimensinal array like spread sheet
