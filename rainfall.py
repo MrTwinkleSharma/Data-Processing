@@ -39,4 +39,14 @@ for row in df3.iterrows():
 
 print(count) # will going to print 1 for this condition 
 
+#Data Analysis after Cleaning 
+
+# 1. Calculating mean of each row related to numbers
+
+print(df3.mean())
+
+print(df3.median())
+
+print(df3.std())
+
     
